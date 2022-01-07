@@ -1,0 +1,14 @@
+{
+    "name": "trokuka",
+    "description": "Troy Trokuka",
+    "keywords": ["Troy"],
+    "env": {
+        "PASSWORD": {
+            "description": "Password",
+            "value": "password"        
+        }
+    },
+    "website": "https://home.co.uk",
+    "repository": "https://github.com/VduMessi/Trokuka",
+    "stack": "container"
+}
